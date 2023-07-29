@@ -23,17 +23,17 @@
 const callouts = [
   {
     name: 'UI & UX',
-    description: 'Work from home accessories',
+    description: 'Kedua elemen ini memiliki peran penting dalam sebuah produk karena mengacu kepada setiap aspek penggunanya.',
     imageSrc: '/public/picture/uiux.jpg',
   },
   {
     name: 'JavaScript',
-    description: 'Work from home accessories',
+    description: 'JavaScript adalah suatu bahasa pemrograman tingkat tinggi dan dinamis.',
     imageSrc: '/public/picture/js.png',
   },
   {
     name: 'Express',
-    description: 'Journals and note-taking',
+    description: 'Framework dengan cara kerja efisien serta dibekali berbagai keunggulan, seperti integrasi dengan arsitektur lain. ',
     imageSrc: '/public/picture/express.png',
   },
 ]

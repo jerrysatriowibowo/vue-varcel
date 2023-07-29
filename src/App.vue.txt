@@ -20,3 +20,9 @@
         Mencintai Saya
     </li>
 </ul>
+
+“Nama Saya Jerry Satrio Wibowo, Saya Lahir Di Panaragan Jaya (Lampung Tengah) Pada Tanggal 12 September 2006, Saya Adalah Anak
+                Ke 3 DarI 4 Bersaudara, Saat Menempuh Pendidikan Sekolah Saya Sekolah Dasar Di SD Islam Miftahul Ulum Sinar Jaya,
+                Yang Berada Di Kec.Aji Tuha (Lampung Tengah), Ketika Saya SMP Saya Memutuskan Untuk Masuk Ke MTs Mftahul Ulum Kota Baru,
+                Yang Berada Di Kec.Kota Baru (Lampung Tengah), Kemudian Saat Saya Memilih Melanjutkan Ke SMK Yang Ada Di Kota Bandung
+                Yaitu SMK Assalaam Bandung, Yang Berada Di Jl.Cibaduyut (Bandung Barat)”
